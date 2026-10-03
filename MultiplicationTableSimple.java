@@ -1,6 +1,6 @@
 public class MultiplicationTableSimple {
     public static void main(String[] args) {
-        int num = 5; // Change this number to print a different table
+        int num = 6; // Change this number to print a different table
         
         System.out.println("Multiplication Table of " + num + ":");
         
