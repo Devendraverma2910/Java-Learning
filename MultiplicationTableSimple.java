@@ -5,7 +5,7 @@ public class MultiplicationTableSimple {
         System.out.println("Multiplication Table of " + num + ":");
         
         // Loop from 1 to 10 to print the results
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= 100; i++) {
             System.out.println(num + " x " + i + " = " + (num * i));
         }
     }
