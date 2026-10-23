@@ -1,7 +1,7 @@
 public class PrintNumbers {
     public static void main(String[] args) {
         // Loop starts at 1 and runs until i is less than or equal to 1000
-        for (int i = 1; i <= 10012; i++) {
+        for (int i = 1; i <= 100; i++) {
             System.out.println(i);
         }
     }
